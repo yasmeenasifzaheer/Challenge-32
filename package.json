@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/yasmeenasifzaheer/Challenge-32.git",
+  "homepage": "https://github.com/yasmeenasifzaheer/Challenge-32",
 
   "scripts": {
     "predeploy": "npm run build",
@@ -12,6 +12,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^19.2.0",
